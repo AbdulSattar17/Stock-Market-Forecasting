@@ -25,7 +25,3 @@
 
 ## Final Thoughts
 * Be patient and enjoy the puzzle if things are not working right away -- stay with it you will get it!
-
-For help See the Yuutube:  https://youtu.be/KhYjGOzMcFw
-
-![image](https://github.com/jjmlovesgit/D-ID_langchain_withChatGPT/assets/47751509/49ac2968-9777-4641-81de-80905f8361b5)
