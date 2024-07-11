@@ -6,24 +6,17 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering from [Depstar](https://www.charusat.ac.in/depstar/). <br><br>
  **Advancing AI Innovations** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> with  **Precision and Creativity** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.
 
 <br>
-
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1C47rn7c1Uq3-LIJfhDVG5oASO8REU3Q9/view?usp=sharing)
-- :superhero_man: Coding Blocks Superhero - I’m a Campus Ambassador at Coding blocks
-- :blue_heart: I was part of Internshala Student Partner 18 (ISP 18) - One of the India's largest student community
-- :art: Graphic Designer at [Club Gamma](https://www.instagram.com/club_gamma/) - An official student technical community under GitHub Campus Expert :triangular_flag_on_post:
-- :heart_eyes: Schwags and Goodies drives me crazy
-- 📫 How to reach me [Mail](mailto:rudra.barad@gmail.com)
+- 📝 📄 Know about my experiences [Resume](https://olive-ardra-24.tiiny.site)
+- 📫 How to reach me [Mail](mailto:abdulsattar130322@gmail.com)
 - :sparkling_heart: Fun Fact - I love using Emojis 
 
 <details>	
   <summary><b>Blogs/Article/Publication</b></summary><br>
 
-  [![](https://img.shields.io/badge/GFG-How_to_Install_Oracle_Database_11g_on_Windows-%231DBF73.svg?&style=flat&logoColor=white)](https://www.geeksforgeeks.org/how-to-install-oracle-database-11g-on-windows/)
-  [![](https://img.shields.io/badge/Medium-GitHub_CLI_is_out_of_Beta-%23ffffff.svg?&style=flat&logoColor=white)](https://medium.com/@rudra.barad/github-cli-is-out-of-beta-b610470fdef6)
+  [![]https://www.linkedin.com/in/abdulsattar130322
 </details>
 
 <details>	
